@@ -1,0 +1,21 @@
+
+actividad
+
+1 conectar a una BD para registrar un usuario y contraseña de computrabajo, 
+linkedin y bumeran
+
+2 antes de guardar las credenciales a la BD verificar que se puedan 
+loguear las credenciales ingresadas.
+
+3 listar las credenciales que se almacenaron
+    [{id:01
+    type:linkedin
+    user:pepito
+    }
+    {id:03
+    type:linkedin
+    user:pepito3
+    }]
+
+4 usar una usuario para loguear (id:01), retornando si se logeo
+

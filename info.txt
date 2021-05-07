@@ -1,0 +1,4 @@
+mongoose : connection bd 
+nodemon  : automatically restarting the node application
+morgan   : It is a middleware for capturing HTTP requests for Node. js
+dotenv   : allows us to define as many environments as we need in our application
